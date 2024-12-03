@@ -45,4 +45,4 @@ const min = 10
 const max = 20
 
 console.log(Math.floor(Math.random() * (max - min + 1)) + min);
-// In the above code firstly the Math.random() generates the random number and the (max-min) defines the range of the output and to avoid the value 0 we add (+1) within the range defining formula i.e.(max-min) and we add +min to define that the value must be greater then the min value or atleast the min value and we wrap the whole formulae within the Math.floor function to get the floor value i.e. the value must m=be without any decimal value
+// In the above code firstly the Math.random() generates the random number and the (max-min) defines the range of the output and to avoid the value 0 we add (+1) within the range defining formula i.e.(max-min) and we add +min to define that the value must be greater then the min value or atleast the min value and we wrap the whole formulae within the Math.floor function to get the floor value i.e. the value must be without any decimal value
