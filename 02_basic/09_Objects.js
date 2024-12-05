@@ -116,3 +116,9 @@ const {price: coursePrice} = course
 console.log(Instructor);
 console.log(coursePrice);
 
+// {
+//    " name": "jeeta",
+//     "coursename": "js ki Padhaee",
+//     "price": "free"
+// }
+
