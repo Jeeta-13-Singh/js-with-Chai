@@ -1,5 +1,5 @@
 
-// Object Literals
+// Object Literals (Multiple intances)
 
 const mysym = Symbol("Key1");
 
