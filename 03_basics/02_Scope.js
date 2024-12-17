@@ -48,4 +48,5 @@ function addone(num){
 const addtwo = function(num){
     return num + 2
 }
-addtwo(5)
+console.log
+(addtwo(5));
